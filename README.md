@@ -31,4 +31,5 @@ api-youpiao.js为有票模式，在前端调用前需要添加相应的数据。
 http://xxx/sku.html?itemId=ID
 
 技术交流群（外围勿扰）：
-![f069809f5f9ef56bc356d279afb8a2b](https://github.com/TroyeFryant/damai-bp/assets/111677045/c1b6e08f-50e2-4756-ad6c-a4b98e5a9d24)
+![0a480f2929ba8e20e3005ab15c08c31](https://github.com/TroyeFryant/damai-bp/assets/111677045/7c6168fe-d4e7-44d1-9d35-f72a787891e4)
+
